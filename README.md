@@ -96,7 +96,7 @@ My focus is building real-world AI applications that integrate large language mo
 A Retrieval-Augmented Generation (RAG) chatbot built with n8n, Pinecone, OpenAI Embeddings, Google Drive, OpenRouter, and Claude Sonnet.
 
 **Repository:**  
-🔗 https://github.com/jdiciacco96/ai-knowledge-base-chatbot
+🔗 https://github.com/jdiciacco96/n8n-rag-chatbot-pinecone
 
 **Highlights**
 - Automated document ingestion pipeline
