@@ -116,7 +116,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with n8n, Pinecone, OpenAI 
 AI-powered workflow that automatically processes invoices, extracts structured information, updates records, and notifies billing teams.
 
 **Repository:**  
-🔗 https://github.com/jdiciacco96/ai-invoice-processing-automation
+🔗 [n8n-ai-invoice-processor](https://github.com/jdiciacco96/n8n-ai-invoice-processor)
 
 **Highlights**
 - PDF document ingestion
