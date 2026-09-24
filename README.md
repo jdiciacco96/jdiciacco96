@@ -135,8 +135,7 @@ AI-powered workflow that automatically processes invoices, extracts structured i
 
 Document-aware conversational assistant using vector retrieval, persistent memory, and AI-enhanced search.
 
-**Repository:**  
-🔗 https://github.com/jdiciacco96/ai-knowledge-assistant-supabase
+**Repository:** [n8n-supabase-rag-pipeline](https://github.com/jdiciacco96/n8n-supabase-rag-pipeline)
 
 **Highlights**
 - Supabase vector storage
